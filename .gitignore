@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# OS
+Thumbs.db
+desktop.ini
+
+# 生成的证件照输出 / generated output
+output/
+*_idphoto_*.jpg
